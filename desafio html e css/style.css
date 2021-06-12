@@ -1,0 +1,36 @@
+img{
+    width: 120px;
+   }
+.bg-menu{
+    background-color: #eecfbc;
+}
+.bg-rosa{
+    background-color: #e4baa0;
+}
+.bg-fundo, .rodape{
+    background-image: url(https://media.istockphoto.com/vectors/vector-rose-gold-marble-background-rose-gold-metallic-texture-trendy-vector-id1188200542?k=6&m=1188200542&s=170667a&w=0&h=kJgINoqkAatv7FriP6fUBEGBVglRszizJDPXuwAq6NM=);
+}
+.navbar{
+    padding: 10px 60px;
+}
+.nav-item{
+    padding: 10px;
+}
+.nav-item.dropdown, .nav-link{
+    padding: 10px 40px;
+}
+.avatar{
+    width: 90%;
+}
+.text-inicial{
+    position: fixed;
+    margin: 60px;
+    font-family: sans-serif;
+    font-size: 100%;
+}
+.sub1:hover, .sub2:hover, .sub3:hover, .sub4:hover{
+  color:#6b4f3d;
+}
+.rodape{
+    height: 80px;
+}
